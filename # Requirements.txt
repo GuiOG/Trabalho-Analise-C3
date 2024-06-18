@@ -1,0 +1,5 @@
+# Requirements
+
+Importar para dentro do jupyter notebook os 3 arquivos deixados no github (test.csv, train.csv, sample_submission.csv)
+
+Importar o arquivo TrabalhoAnaliseC3 também para dentro do jupyter.
